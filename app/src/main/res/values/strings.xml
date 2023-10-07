@@ -4,8 +4,8 @@
     <string name="signin_with_google">SignIn With Google</string>
     <string name="signin_with_facebook">SignIn with Facebook</string>
 
-    <string name="facebook_app_id">144461595413783</string>
-    <string name="fb_login_protocol_scheme">fb144461595413783</string>
-    <string name="facebook_client_token">54a4ef356042dc0df2a8b5fc783467d7</string>
+    <string name="facebook_app_id">0</string>
+    <string name="fb_login_protocol_scheme">0</string>
+    <string name="facebook_client_token">0</string>
 
 </resources>
