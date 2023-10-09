@@ -43,6 +43,8 @@ class MainActivity : AppCompatActivity() {
                     val signInIntent = gsc.signInIntent
                     startActivityForResult(signInIntent, 1000)
                 }
+
+                //throw RuntimeException("Test Crash") // Force a crash
             }
 
         }
