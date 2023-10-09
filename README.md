@@ -1,8 +1,6 @@
 # Google_and_Facebook_auth_Login
-
+=================================
 # Facebook Login Integration:::
-
-Facebook Console provides a place to configure OAuth Redirect URIs for your Facebook App. Here's how you can find and configure the OAuth Redirect URI in the Facebook Developer Console:
 
 **1. Access the Facebook Developer Console:**
 
